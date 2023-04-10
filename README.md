@@ -1,12 +1,10 @@
-# 🎆 VODA - 음성 감정 일기
+# 🎆 VODA(VoiceDiary) - 음성 감정 일기
 
 ![](./img/dongdongdorodong.gif)
 
 ## 💜 프로젝트 진행 기간
 
 2023.02.19(월) ~ 2023.04.07(금)
-
-VODA (VoiceDiary)
 
 <br>
 
