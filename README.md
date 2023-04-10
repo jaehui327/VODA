@@ -6,7 +6,7 @@
 
 2023.02.19(월) ~ 2023.04.07(금)
 
-SSAFY 8기 2학기 공통프로젝트 - VODA (VoiceDiary)
+VODA (VoiceDiary)
 
 <br>
 
